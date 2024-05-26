@@ -1,0 +1,8 @@
+{
+    "MONGOATLAS":{
+    "HOSTNAME":"k4cmvpdev.0umbo.mongodb.net",
+    "MONGO_DB": "uatDB1",
+    "MONGO_USER": "dbAdmin",
+    "MONGO_PASS": "Becomingyourbest2021"
+    }
+}
